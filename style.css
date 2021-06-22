@@ -204,43 +204,6 @@ span {
     margin-left: 50px;
 }
 
-@media only screen and (max-width: 850px) {
-    .fb:active {
-        content: "";
-        position: absolute;
-        width: 120%;
-        height: 120%;
-        background: #0d7ceb;
-        transform: rotate(45deg);
-        left: -110%;
-        top: 90%;
-    }
-    .instabtn:active {
-        content: "";
-        position: absolute;
-        width: 120%;
-        height: 120%;
-        background: #e80c46;
-        transform: rotate(45deg);
-        left: -110%;
-        top: 90%;
-    }
-    .gitbtn:active {
-        content: "";
-        position: absolute;
-        width: 120%;
-        height: 120%;
-        background: #131212;
-        transform: rotate(45deg);
-        left: -110%;
-        top: 90%;
-    }
-    .btn2:active {
-        animation: aaa 0.7s 1;
-        top: -10%;
-        left: -10%;
-    }
-}
 
 .spinner-wrapper {
     width: 100%;
